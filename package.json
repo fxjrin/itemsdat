@@ -1,0 +1,23 @@
+{
+  "name": "itemsdat-tool",
+  "version": "1.0.0",
+  "description": "A simple tool to decode and encode items.dat files, with support for version 18 of the file format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "growtopia",
+    "itemsdat"
+  ],
+  "author": "fxjrin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fxjrin/itemsdat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fxjrin/itemsdat/issues"
+  },
+  "homepage": "https://github.com/fxjrin/itemsdat/"
+}
